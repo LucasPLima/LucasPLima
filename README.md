@@ -8,7 +8,9 @@ Here my contacts:
 
 ## More about Me
 - Brazilian;
-- Currently studying and developing REST API's with [Spring Framework](https://spring.io/).;
+- Currently studying and developing REST API's with 
+ - [Spring Framework](https://spring.io/);
+ - [Django Rest Framework](https://www.django-rest-framework.org/);
 - Experience with Oracle Databases and PL/SQL development.
 
 > Written with [StackEdit](https://stackedit.io/).
